@@ -1,0 +1,12 @@
+li {
+    display: flex;
+    align-items: center;
+    border: solid;
+    border-radius: 10px;
+    background-color: cornsilk;
+    margin: 10px;
+}
+
+.cabecalho {
+    text-align: center;
+}
